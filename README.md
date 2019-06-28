@@ -2,7 +2,7 @@
 Project for Machine Perception 2019 Spring semester by Modestas Filipavicius
 Link to paper: https://www.overleaf.com/read/tzvrpffsdrxx
 
-![dataset overview](https://github.com/mfilipav/compVisionEyeGazeEstimation/figures/hiliges_fig.png)
+![dataset overview](https://github.com/mfilipav/compVisionEyeGazeEstimation/figures/hiliges_fig.jpg)
 
 
 # Project Introduction
