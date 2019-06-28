@@ -1,8 +1,9 @@
-Eye Gaze Estimation
-
+# Eye Gaze Estimation
 Project for Machine Perception 2019 Spring semester by Modestas Filipavicius
-
 Link to paper: https://www.overleaf.com/read/tzvrpffsdrxx
+
+![dataset overview](https://github.com/mfilipav/compVisionEyeGazeEstimation/figures/hiliges_fig.png)
+
 
 # Project Introduction
 Conventional feature-based and model-based gaze estimation methods have proven to perform well in settings with controlled illumination and specialized cameras. In unconstrained real-world settings, however, such methods are surpassed by recent appearance-based methods due to difficulties in modeling factors such as illuminationchanges and other visual artifacts.
