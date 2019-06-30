@@ -1,4 +1,4 @@
-# Eye Gaze Estimation
+# GazeNet -- Eye Gaze Estimation
 Project for Machine Perception 2019 Spring semester by Modestas Filipavicius
 Link to paper: https://www.overleaf.com/read/tzvrpffsdrxx
 
